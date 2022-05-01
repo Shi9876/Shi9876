@@ -1,4 +1,4 @@
-### Hi, I'm Shivanshi! 👋
+### Hi, I'm Shivanshi 👋
 
 <!--
 **Shi9876/Shi9876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
